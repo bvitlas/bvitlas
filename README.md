@@ -1,7 +1,7 @@
 ## Hi 👋
 
-Full-stack GIS engineer focused on Open Source, geospatial infrastructure, and scalable mapping systems. Specialized in vector tiles, custom servers, and end-to-end GIS apps.
+Full-stack GIS engineer building geospatial infrastructure, vector tile pipelines, custom servers, and scalable web mapping applications.
 
 ---
 #### 🌍 Portfolio
-My latest work at: [projects](https://www.mappinest.com/about#our-work)
+[Recent work](https://www.mappinest.com/about#our-work)

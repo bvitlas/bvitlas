@@ -5,3 +5,9 @@ Full-stack GIS engineer building geospatial infrastructure, vector tile pipeline
 ---
 #### 🌍 Portfolio
 [Recent work](https://www.mappinest.com/about#our-work)
+
+---
+### Contact
+
+📧 [info@mappinest.com](mailto:info@mappinest.com)  
+🌐 [mappinest.com](https://www.mappinest.com/contact)  
